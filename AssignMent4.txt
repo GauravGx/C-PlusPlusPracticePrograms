@@ -1,0 +1,9 @@
+Q1- Write a program to calculate size of a Character Const?
+Q2- Write a program to calculate size of real Constant?
+Q3- Write a program with one char type variable .Assign 'A'in the variable now 
+change the value of varible 'A' to 'B' using increment Operator
+Q4- Write a program to swap value of two int variable?
+Q5- Write a program to swap value of two varible without using third variable?
+Q6- write a program to swap value of two varible without '+'or'-' or third variable?
+Q7- write a program to swap value ot two varible without using third varible and without any arithmatic Operator?
+Q8- write a program to swap value of two int varible in single line arithematic expression?
