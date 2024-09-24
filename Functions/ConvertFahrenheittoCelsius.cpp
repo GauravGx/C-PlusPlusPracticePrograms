@@ -4,7 +4,7 @@
 
 using namespace std;
 
-float toCeldius(float fahrenheit){
+float toCeldius(float fahrenheit){      // function takes float value as argu and return flaot 
    return (5.0/9.0)*(fahrenheit - 32.0);
  }
 
